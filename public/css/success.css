@@ -1,0 +1,11 @@
+body{
+  margin:0px;
+}
+.info{
+  background-color: #A2B29F;
+  padding: 45px;
+  line-height: 2;
+}
+form{
+  padding-left: 55px;
+}
