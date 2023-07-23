@@ -27,7 +27,7 @@ app.post('/',function(rq,rs){
     ]
   };
   const jData=JSON.stringify(data);
-  const url="https://us8.api.mailchimp.com/3.0/lists/07d211caa8/";
+  const url="#";
   const option={
     method:"post",
     auth:"Viratdep:022ad29ce67e43ecd20b2f121cb77266-us8"
